@@ -1,0 +1,21 @@
+{
+  "name": "loja-estudo",
+  "version": "1.0.0",
+  "description": "Welcome to your [deco.cx](https://deco.cx) site!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "deno task start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deco-sites/loja-estudo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deco-sites/loja-estudo/issues"
+  },
+  "homepage": "https://github.com/deco-sites/loja-estudo#readme"
+}
